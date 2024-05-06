@@ -27,7 +27,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
     else:
         print(f"O número {num} é ímpar.")
    ```
-<br>
+<hr>
 
 2. **Modifique a função acima para verificar e retornar se o número é par ou ímpar.**
  
@@ -46,7 +46,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
     resultado = verificar_par_ou_impar(num)
     print(f"O número {num} é {resultado}.")
    ```
-<br> 
+<hr> 
 
 3. **Escreva uma função que retorne o maior de dois números.**
 
@@ -66,7 +66,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
     maior = maior_numero(num1, num2)
     print(f"O maior número é: {maior}")
    ```
-<br>
+<hr>
  
 4. **Escreva uma função que recebe dois números e retorna True se o primeiro for múltiplo do segundo.**
 
@@ -88,7 +88,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
     else:
         print(f"{num1} não é múltiplo de {num2}.")
    ```
-<br>
+<hr>
 
 5. **Escreva uma função que recebe o lado de um quadrado e retorna sua área.**
 
@@ -105,7 +105,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
     area = calcular_area_quadrado(lado)
     print(f"A área de um quadrado com lado {lado} é {area}.")
    ```
-<br>
+<hr>
 
 6. **Escreva uma função que recebe a base e altura de um triângulo e retorna sua área.**
 
@@ -123,7 +123,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
     area = calcular_area_triangulo(base, altura)
     print(f"A área do triângulo com base {base} e altura {altura} é {area}.")
    ```
-<br>
+<hr>
 
 7. **Defina uma função recursiva que calcule o maior divisor comum (M.D.C.) entre dois números a e b.**
 
@@ -147,7 +147,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
     else:
         print("Por favor, garanta que a > b para calcular o MDC.")
    ```
-<br>
+<hr>
 
 8. **Usando a função mdc definida no exercício anterior, defina uma função para calcular o menor múltiplo comum (M.M.C.) entre dois números.**
     
@@ -171,7 +171,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
     resultado = mmc(a, b)
     print(f"O M.M.C. de {a} e {b} é {resultado}.")
    ```
-<br>
+<hr>
 
 9. **Defina uma função recursiva para calcular a sequência Fibonacci. A sequência em questão começa com dois números 0 e 1. Os números seguintes são a soma dos dois anteriores. A sequência ficaria assim: 0, 1, 1, 2, 3, 5, 8, 13, 21, ...**
 
@@ -193,7 +193,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
     else:
         print(f"O {termo}º termo da sequência Fibonacci é: {fibonacci(termo)}")
    ```
-<br>
+<hr>
 
 10. **Escreva uma função recursiva para calcular a função de Ackerman para dois inteiros positivos m e n.**
 
@@ -216,3 +216,8 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
      resultado = ackermann(m, n)
      print(f"A função de Ackermann para m={m} e n={n} é {resultado}.")
     ```
+<hr>
+
+## Fundamentos de Algoritmo
+
+Acesse o repositório principal: https://github.com/devitruvius/ADS-fundamentos-de-algoritmos
