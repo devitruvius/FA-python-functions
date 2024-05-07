@@ -232,7 +232,7 @@ A estrutura do repositório foi organizada para proporcionar uma experiência de
    - [Repositório da Lista de Atividades IV](https://github.com/devitruvius/FA-python-lists)
 
 * **Atividade 5: Aplicando Conceitos das Estruturas de Funções em Python**
-   - [Repositório da Lista de Atividades V](#)
+   - ***Repositório da Lista de Atividades V***
 
 * **Repositório Pai: Fundamentos de Algoritmos**
    - [Fundamentos de Algoritmos](https://github.com/devitruvius/ADS-fundamentos-de-algoritmos)
